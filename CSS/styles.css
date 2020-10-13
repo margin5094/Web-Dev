@@ -118,7 +118,7 @@ hr{
 }
 
 .btn:hover {
-  background: #3cb0fd;
+  background: #FF8C00;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
   background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
   background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
@@ -127,7 +127,7 @@ hr{
   text-decoration: none;
 }
 .copyright{
-  color: #EAF6F6;
+  color: #FFA500;
   font-size: 0.75rem;
   padding: 20px 0;
 }
